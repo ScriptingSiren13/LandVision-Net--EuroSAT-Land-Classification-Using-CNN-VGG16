@@ -131,7 +131,7 @@ LandVisionNet/
 
 ---
 
-## 🚀 Potential Future Work
+##  Potential Future Work
 
 - Add inference web UI (Streamlit / FastAPI)
 - Train on multispectral variant
